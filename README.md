@@ -1,4 +1,4 @@
-hMath
+mathematics
 =====
 
 Programmatic solutions of mathematical problems
